@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "simulation_seed": 113297,
+  "sqlite": "3.53.1",
+  "node": "24.19.0",
+  "office_authoring": "@oai/artifact-tool, bundled runtime 26.909.11809",
+  "browser": "Brave Chromium, headless temporary profile",
+  "public_data_sha256": "2d1f65308877282edfb4470520eabbc08cb499118432a3dcec6a66c086aa2baa"
+}

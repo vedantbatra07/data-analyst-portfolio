@@ -1,0 +1,15 @@
+{
+  "publisher": "Stack Overflow",
+  "year": 2025,
+  "url": "https://survey.stackoverflow.co/2025/",
+  "data_url": "https://github.com/StackExchange/Survey/tree/main/packages/archive/2025",
+  "methodology_url": "https://survey.stackoverflow.co/2025/methodology",
+  "download_url": "https://media.githubusercontent.com/media/StackExchange/Survey/main/packages/archive/2025/results.csv",
+  "downloaded_on": "2026-09-30",
+  "sha256": "2d1f65308877282edfb4470520eabbc08cb499118432a3dcec6a66c086aa2baa",
+  "raw_rows": 49191,
+  "published_retained_rows": 49009,
+  "population_note": "This downloaded public file has 49,191 rows, while the published methodology states 49,009 retained responses. We analyze the downloaded file with explicit question-level denominators, do not invent a missing exclusion rule, and do not claim exact replication of published statistics.",
+  "license": "ODbL 1.0 (database); DbCL 1.0 (contents)",
+  "license_url": "https://opendatacommons.org/licenses/odbl/1-0/"
+}

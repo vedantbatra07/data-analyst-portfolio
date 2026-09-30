@@ -1,0 +1,227 @@
+{
+  "retention": {
+    "clients": 1400,
+    "historical_clients": 1200,
+    "activity_events": 130148,
+    "renewal_rate": 0.7766666666666666,
+    "eligible_value_usd": 5440800,
+    "renewed_value_usd": 4166400,
+    "value_renewal_rate": 0.7657697397441553,
+    "upcoming_clients": 200,
+    "flagged_upcoming": 53,
+    "flagged_contract_value_usd": 205200,
+    "training_n": 794,
+    "holdout_n": 406,
+    "rule": {
+      "n": 406,
+      "nonrenewals": 94,
+      "flagged": 116,
+      "tp": 45,
+      "fp": 71,
+      "fn": 49,
+      "tn": 241,
+      "precision": 0.3879310344827586,
+      "recall": 0.4787234042553192,
+      "baseline": 0.2315270935960591,
+      "precision_interval": [
+        0.3042067212212056,
+        0.4788402340931427
+      ]
+    },
+    "model": {
+      "n": 406,
+      "nonrenewals": 94,
+      "flagged": 2,
+      "tp": 2,
+      "fp": 0,
+      "fn": 92,
+      "tn": 312,
+      "precision": 1.0,
+      "recall": 0.02127659574468085,
+      "baseline": 0.2315270935960591,
+      "precision_interval": [
+        0.34237195288961925,
+        1.0
+      ],
+      "auc": 0.6700081833060556,
+      "brier": 0.1674230384303976,
+      "baseline_brier": 0.17807565001461026
+    },
+    "capacity": {
+      "n": 406,
+      "nonrenewals": 94,
+      "flagged": 81,
+      "tp": 32,
+      "fp": 49,
+      "fn": 62,
+      "tn": 263,
+      "precision": 0.3950617283950617,
+      "recall": 0.3404255319148936,
+      "baseline": 0.2315270935960591,
+      "precision_interval": [
+        0.29567937414518425,
+        0.5039472241273613
+      ]
+    },
+    "rule_capacity": {
+      "n": 406,
+      "nonrenewals": 94,
+      "flagged": 81,
+      "tp": 35,
+      "fp": 46,
+      "fn": 59,
+      "tn": 266,
+      "precision": 0.43209876543209874,
+      "recall": 0.3723404255319149,
+      "baseline": 0.2315270935960591,
+      "precision_interval": [
+        0.329719027705932,
+        0.540627594705715
+      ]
+    },
+    "renewal_by_tier": [
+      {
+        "tier": "Enterprise",
+        "contracts": 172,
+        "renewed_contracts": 128.0,
+        "renewal_rate": 0.7441860465,
+        "eligible_value_usd": 2580000,
+        "renewed_value_usd": 1920000
+      },
+      {
+        "tier": "Essential",
+        "contracts": 576,
+        "renewed_contracts": 448.0,
+        "renewal_rate": 0.7777777778,
+        "eligible_value_usd": 691200,
+        "renewed_value_usd": 537600
+      },
+      {
+        "tier": "Professional",
+        "contracts": 452,
+        "renewed_contracts": 356.0,
+        "renewal_rate": 0.7876106195,
+        "eligible_value_usd": 2169600,
+        "renewed_value_usd": 1708800
+      }
+    ],
+    "renewal_by_activation": [
+      {
+        "activated_30d": 0,
+        "contracts": 260,
+        "renewed_contracts": 182.0,
+        "renewal_rate": 0.7
+      },
+      {
+        "activated_30d": 1,
+        "contracts": 940,
+        "renewed_contracts": 750.0,
+        "renewal_rate": 0.7978723404
+      }
+    ],
+    "renewal_by_month": [
+      {
+        "month": "2025-01",
+        "contracts": 112,
+        "renewed_contracts": 89.0,
+        "renewal_rate": 0.7946428571
+      },
+      {
+        "month": "2025-02",
+        "contracts": 86,
+        "renewed_contracts": 65.0,
+        "renewal_rate": 0.7558139535
+      },
+      {
+        "month": "2025-03",
+        "contracts": 95,
+        "renewed_contracts": 79.0,
+        "renewal_rate": 0.8315789474
+      },
+      {
+        "month": "2025-04",
+        "contracts": 97,
+        "renewed_contracts": 76.0,
+        "renewal_rate": 0.7835051546
+      },
+      {
+        "month": "2025-05",
+        "contracts": 78,
+        "renewed_contracts": 61.0,
+        "renewal_rate": 0.7820512821
+      },
+      {
+        "month": "2025-06",
+        "contracts": 113,
+        "renewed_contracts": 85.0,
+        "renewal_rate": 0.7522123894
+      },
+      {
+        "month": "2025-07",
+        "contracts": 111,
+        "renewed_contracts": 87.0,
+        "renewal_rate": 0.7837837838
+      },
+      {
+        "month": "2025-08",
+        "contracts": 102,
+        "renewed_contracts": 78.0,
+        "renewal_rate": 0.7647058824
+      },
+      {
+        "month": "2025-09",
+        "contracts": 102,
+        "renewed_contracts": 90.0,
+        "renewal_rate": 0.8823529412
+      },
+      {
+        "month": "2025-10",
+        "contracts": 98,
+        "renewed_contracts": 70.0,
+        "renewal_rate": 0.7142857143
+      },
+      {
+        "month": "2025-11",
+        "contracts": 111,
+        "renewed_contracts": 79.0,
+        "renewal_rate": 0.7117117117
+      },
+      {
+        "month": "2025-12",
+        "contracts": 95,
+        "renewed_contracts": 73.0,
+        "renewal_rate": 0.7684210526
+      }
+    ],
+    "rule_evaluation": [
+      {
+        "cohort": "Holdout",
+        "clients": 406,
+        "nonrenewals": 94.0,
+        "flagged": 116,
+        "true_positives": 45,
+        "false_positives": 71,
+        "false_negatives": 49
+      },
+      {
+        "cohort": "Training",
+        "clients": 794,
+        "nonrenewals": 174.0,
+        "flagged": 224,
+        "true_positives": 71,
+        "false_positives": 153,
+        "false_negatives": 103
+      }
+    ]
+  },
+  "ai": {
+    "respondents": 49191,
+    "usage_answered": 33720,
+    "current_users": 26469,
+    "planned_users": 1797,
+    "users_answering_trust": 26126,
+    "low_trust_users": 9733,
+    "current_adoption": 0.7849644128,
+    "low_trust_share": 0.372540764
+  }
+}

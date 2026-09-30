@@ -1,0 +1,1401 @@
+client_id,industry,tier
+C0001,Technology,Essential
+C0002,Healthcare,Essential
+C0003,Manufacturing,Professional
+C0004,Financial services,Professional
+C0005,Financial services,Professional
+C0006,Healthcare,Essential
+C0007,Manufacturing,Essential
+C0008,Manufacturing,Essential
+C0009,Financial services,Enterprise
+C0010,Manufacturing,Enterprise
+C0011,Manufacturing,Essential
+C0012,Healthcare,Professional
+C0013,Healthcare,Essential
+C0014,Financial services,Professional
+C0015,Technology,Professional
+C0016,Technology,Professional
+C0017,Healthcare,Professional
+C0018,Financial services,Essential
+C0019,Manufacturing,Essential
+C0020,Manufacturing,Professional
+C0021,Manufacturing,Professional
+C0022,Retail,Essential
+C0023,Financial services,Essential
+C0024,Retail,Essential
+C0025,Retail,Essential
+C0026,Healthcare,Essential
+C0027,Technology,Essential
+C0028,Financial services,Professional
+C0029,Technology,Essential
+C0030,Manufacturing,Professional
+C0031,Healthcare,Enterprise
+C0032,Technology,Professional
+C0033,Financial services,Essential
+C0034,Retail,Essential
+C0035,Manufacturing,Essential
+C0036,Financial services,Essential
+C0037,Manufacturing,Essential
+C0038,Healthcare,Essential
+C0039,Financial services,Professional
+C0040,Retail,Essential
+C0041,Financial services,Essential
+C0042,Retail,Professional
+C0043,Financial services,Professional
+C0044,Healthcare,Professional
+C0045,Retail,Professional
+C0046,Healthcare,Essential
+C0047,Healthcare,Professional
+C0048,Financial services,Enterprise
+C0049,Technology,Essential
+C0050,Retail,Essential
+C0051,Manufacturing,Professional
+C0052,Retail,Essential
+C0053,Retail,Essential
+C0054,Retail,Essential
+C0055,Technology,Professional
+C0056,Healthcare,Professional
+C0057,Financial services,Enterprise
+C0058,Retail,Enterprise
+C0059,Technology,Professional
+C0060,Financial services,Enterprise
+C0061,Retail,Essential
+C0062,Technology,Professional
+C0063,Retail,Essential
+C0064,Manufacturing,Essential
+C0065,Technology,Professional
+C0066,Manufacturing,Essential
+C0067,Healthcare,Professional
+C0068,Financial services,Professional
+C0069,Manufacturing,Enterprise
+C0070,Manufacturing,Essential
+C0071,Retail,Essential
+C0072,Healthcare,Enterprise
+C0073,Technology,Essential
+C0074,Technology,Professional
+C0075,Manufacturing,Essential
+C0076,Manufacturing,Essential
+C0077,Technology,Essential
+C0078,Financial services,Professional
+C0079,Manufacturing,Professional
+C0080,Financial services,Essential
+C0081,Retail,Essential
+C0082,Technology,Essential
+C0083,Financial services,Essential
+C0084,Technology,Essential
+C0085,Manufacturing,Essential
+C0086,Retail,Professional
+C0087,Technology,Professional
+C0088,Financial services,Professional
+C0089,Healthcare,Essential
+C0090,Healthcare,Professional
+C0091,Healthcare,Professional
+C0092,Manufacturing,Essential
+C0093,Healthcare,Essential
+C0094,Technology,Professional
+C0095,Retail,Essential
+C0096,Manufacturing,Enterprise
+C0097,Retail,Professional
+C0098,Healthcare,Essential
+C0099,Healthcare,Professional
+C0100,Financial services,Professional
+C0101,Financial services,Enterprise
+C0102,Healthcare,Essential
+C0103,Manufacturing,Enterprise
+C0104,Technology,Essential
+C0105,Financial services,Professional
+C0106,Retail,Essential
+C0107,Retail,Professional
+C0108,Healthcare,Essential
+C0109,Retail,Essential
+C0110,Financial services,Professional
+C0111,Retail,Essential
+C0112,Manufacturing,Professional
+C0113,Financial services,Professional
+C0114,Technology,Professional
+C0115,Healthcare,Essential
+C0116,Retail,Professional
+C0117,Financial services,Essential
+C0118,Financial services,Professional
+C0119,Financial services,Essential
+C0120,Manufacturing,Enterprise
+C0121,Manufacturing,Essential
+C0122,Financial services,Professional
+C0123,Manufacturing,Essential
+C0124,Manufacturing,Enterprise
+C0125,Manufacturing,Professional
+C0126,Manufacturing,Professional
+C0127,Healthcare,Professional
+C0128,Healthcare,Essential
+C0129,Financial services,Professional
+C0130,Retail,Essential
+C0131,Healthcare,Essential
+C0132,Financial services,Essential
+C0133,Manufacturing,Professional
+C0134,Healthcare,Professional
+C0135,Financial services,Essential
+C0136,Technology,Essential
+C0137,Retail,Enterprise
+C0138,Technology,Enterprise
+C0139,Manufacturing,Essential
+C0140,Financial services,Essential
+C0141,Financial services,Essential
+C0142,Financial services,Essential
+C0143,Technology,Essential
+C0144,Financial services,Essential
+C0145,Financial services,Professional
+C0146,Healthcare,Essential
+C0147,Technology,Professional
+C0148,Technology,Enterprise
+C0149,Healthcare,Essential
+C0150,Financial services,Professional
+C0151,Financial services,Essential
+C0152,Manufacturing,Professional
+C0153,Manufacturing,Professional
+C0154,Manufacturing,Professional
+C0155,Healthcare,Professional
+C0156,Financial services,Essential
+C0157,Financial services,Enterprise
+C0158,Healthcare,Professional
+C0159,Manufacturing,Professional
+C0160,Financial services,Essential
+C0161,Manufacturing,Professional
+C0162,Financial services,Professional
+C0163,Technology,Essential
+C0164,Financial services,Enterprise
+C0165,Retail,Essential
+C0166,Financial services,Essential
+C0167,Healthcare,Enterprise
+C0168,Retail,Professional
+C0169,Technology,Essential
+C0170,Retail,Essential
+C0171,Technology,Professional
+C0172,Manufacturing,Essential
+C0173,Manufacturing,Essential
+C0174,Healthcare,Essential
+C0175,Manufacturing,Enterprise
+C0176,Retail,Essential
+C0177,Technology,Professional
+C0178,Manufacturing,Essential
+C0179,Technology,Professional
+C0180,Retail,Enterprise
+C0181,Healthcare,Enterprise
+C0182,Technology,Professional
+C0183,Manufacturing,Professional
+C0184,Technology,Essential
+C0185,Healthcare,Enterprise
+C0186,Healthcare,Professional
+C0187,Healthcare,Professional
+C0188,Healthcare,Professional
+C0189,Manufacturing,Essential
+C0190,Technology,Essential
+C0191,Financial services,Essential
+C0192,Financial services,Professional
+C0193,Retail,Professional
+C0194,Manufacturing,Enterprise
+C0195,Retail,Essential
+C0196,Healthcare,Essential
+C0197,Healthcare,Essential
+C0198,Retail,Professional
+C0199,Healthcare,Essential
+C0200,Retail,Essential
+C0201,Retail,Essential
+C0202,Technology,Essential
+C0203,Technology,Professional
+C0204,Retail,Essential
+C0205,Retail,Essential
+C0206,Healthcare,Professional
+C0207,Manufacturing,Professional
+C0208,Technology,Essential
+C0209,Financial services,Essential
+C0210,Healthcare,Professional
+C0211,Technology,Essential
+C0212,Manufacturing,Enterprise
+C0213,Technology,Enterprise
+C0214,Healthcare,Essential
+C0215,Healthcare,Professional
+C0216,Manufacturing,Essential
+C0217,Retail,Professional
+C0218,Healthcare,Essential
+C0219,Technology,Professional
+C0220,Healthcare,Enterprise
+C0221,Financial services,Essential
+C0222,Healthcare,Essential
+C0223,Financial services,Essential
+C0224,Manufacturing,Essential
+C0225,Manufacturing,Essential
+C0226,Technology,Essential
+C0227,Technology,Enterprise
+C0228,Retail,Essential
+C0229,Healthcare,Enterprise
+C0230,Technology,Professional
+C0231,Retail,Professional
+C0232,Technology,Professional
+C0233,Retail,Essential
+C0234,Retail,Professional
+C0235,Retail,Essential
+C0236,Financial services,Professional
+C0237,Manufacturing,Professional
+C0238,Retail,Enterprise
+C0239,Financial services,Professional
+C0240,Healthcare,Enterprise
+C0241,Retail,Essential
+C0242,Technology,Essential
+C0243,Financial services,Essential
+C0244,Technology,Essential
+C0245,Financial services,Professional
+C0246,Retail,Professional
+C0247,Financial services,Essential
+C0248,Financial services,Essential
+C0249,Manufacturing,Professional
+C0250,Financial services,Enterprise
+C0251,Financial services,Professional
+C0252,Retail,Essential
+C0253,Manufacturing,Essential
+C0254,Retail,Essential
+C0255,Healthcare,Essential
+C0256,Technology,Essential
+C0257,Retail,Essential
+C0258,Technology,Essential
+C0259,Manufacturing,Essential
+C0260,Financial services,Professional
+C0261,Financial services,Essential
+C0262,Retail,Professional
+C0263,Retail,Essential
+C0264,Financial services,Professional
+C0265,Healthcare,Professional
+C0266,Technology,Enterprise
+C0267,Financial services,Essential
+C0268,Technology,Professional
+C0269,Healthcare,Professional
+C0270,Financial services,Professional
+C0271,Healthcare,Professional
+C0272,Financial services,Professional
+C0273,Retail,Professional
+C0274,Technology,Essential
+C0275,Financial services,Essential
+C0276,Financial services,Enterprise
+C0277,Retail,Enterprise
+C0278,Manufacturing,Professional
+C0279,Manufacturing,Essential
+C0280,Financial services,Professional
+C0281,Manufacturing,Professional
+C0282,Retail,Essential
+C0283,Manufacturing,Essential
+C0284,Retail,Essential
+C0285,Technology,Professional
+C0286,Financial services,Essential
+C0287,Manufacturing,Enterprise
+C0288,Manufacturing,Enterprise
+C0289,Financial services,Professional
+C0290,Retail,Essential
+C0291,Retail,Professional
+C0292,Financial services,Essential
+C0293,Financial services,Enterprise
+C0294,Manufacturing,Professional
+C0295,Healthcare,Professional
+C0296,Financial services,Professional
+C0297,Technology,Enterprise
+C0298,Financial services,Essential
+C0299,Retail,Essential
+C0300,Healthcare,Enterprise
+C0301,Technology,Professional
+C0302,Financial services,Essential
+C0303,Retail,Essential
+C0304,Retail,Professional
+C0305,Healthcare,Professional
+C0306,Retail,Professional
+C0307,Manufacturing,Professional
+C0308,Financial services,Essential
+C0309,Manufacturing,Essential
+C0310,Financial services,Essential
+C0311,Technology,Essential
+C0312,Healthcare,Professional
+C0313,Manufacturing,Enterprise
+C0314,Healthcare,Professional
+C0315,Technology,Essential
+C0316,Healthcare,Enterprise
+C0317,Healthcare,Essential
+C0318,Healthcare,Essential
+C0319,Retail,Essential
+C0320,Financial services,Professional
+C0321,Technology,Enterprise
+C0322,Financial services,Essential
+C0323,Technology,Essential
+C0324,Financial services,Professional
+C0325,Manufacturing,Essential
+C0326,Financial services,Essential
+C0327,Financial services,Essential
+C0328,Financial services,Essential
+C0329,Technology,Professional
+C0330,Healthcare,Essential
+C0331,Retail,Professional
+C0332,Financial services,Essential
+C0333,Retail,Essential
+C0334,Retail,Professional
+C0335,Technology,Essential
+C0336,Healthcare,Essential
+C0337,Financial services,Essential
+C0338,Retail,Essential
+C0339,Technology,Professional
+C0340,Retail,Enterprise
+C0341,Technology,Enterprise
+C0342,Financial services,Enterprise
+C0343,Manufacturing,Enterprise
+C0344,Technology,Professional
+C0345,Technology,Professional
+C0346,Financial services,Professional
+C0347,Retail,Professional
+C0348,Technology,Essential
+C0349,Healthcare,Professional
+C0350,Healthcare,Essential
+C0351,Financial services,Essential
+C0352,Technology,Essential
+C0353,Retail,Enterprise
+C0354,Technology,Enterprise
+C0355,Financial services,Essential
+C0356,Retail,Essential
+C0357,Healthcare,Professional
+C0358,Technology,Enterprise
+C0359,Retail,Essential
+C0360,Financial services,Enterprise
+C0361,Healthcare,Professional
+C0362,Financial services,Essential
+C0363,Financial services,Professional
+C0364,Technology,Essential
+C0365,Healthcare,Enterprise
+C0366,Technology,Essential
+C0367,Financial services,Essential
+C0368,Technology,Enterprise
+C0369,Technology,Professional
+C0370,Retail,Professional
+C0371,Retail,Essential
+C0372,Technology,Essential
+C0373,Manufacturing,Essential
+C0374,Manufacturing,Professional
+C0375,Financial services,Enterprise
+C0376,Technology,Essential
+C0377,Retail,Enterprise
+C0378,Financial services,Professional
+C0379,Healthcare,Essential
+C0380,Retail,Essential
+C0381,Technology,Essential
+C0382,Retail,Essential
+C0383,Technology,Professional
+C0384,Financial services,Essential
+C0385,Financial services,Essential
+C0386,Retail,Enterprise
+C0387,Technology,Essential
+C0388,Technology,Professional
+C0389,Healthcare,Essential
+C0390,Manufacturing,Enterprise
+C0391,Financial services,Essential
+C0392,Technology,Essential
+C0393,Retail,Professional
+C0394,Retail,Professional
+C0395,Manufacturing,Essential
+C0396,Financial services,Professional
+C0397,Retail,Professional
+C0398,Technology,Professional
+C0399,Manufacturing,Professional
+C0400,Financial services,Professional
+C0401,Technology,Essential
+C0402,Manufacturing,Essential
+C0403,Technology,Essential
+C0404,Healthcare,Essential
+C0405,Manufacturing,Professional
+C0406,Healthcare,Essential
+C0407,Technology,Essential
+C0408,Manufacturing,Professional
+C0409,Manufacturing,Professional
+C0410,Healthcare,Essential
+C0411,Healthcare,Essential
+C0412,Financial services,Professional
+C0413,Technology,Essential
+C0414,Manufacturing,Professional
+C0415,Manufacturing,Essential
+C0416,Healthcare,Professional
+C0417,Retail,Essential
+C0418,Technology,Essential
+C0419,Technology,Professional
+C0420,Retail,Professional
+C0421,Financial services,Essential
+C0422,Manufacturing,Essential
+C0423,Financial services,Professional
+C0424,Healthcare,Professional
+C0425,Healthcare,Essential
+C0426,Manufacturing,Professional
+C0427,Healthcare,Essential
+C0428,Retail,Essential
+C0429,Healthcare,Essential
+C0430,Healthcare,Professional
+C0431,Manufacturing,Professional
+C0432,Technology,Enterprise
+C0433,Financial services,Enterprise
+C0434,Technology,Essential
+C0435,Healthcare,Essential
+C0436,Manufacturing,Professional
+C0437,Healthcare,Professional
+C0438,Financial services,Professional
+C0439,Retail,Professional
+C0440,Financial services,Enterprise
+C0441,Financial services,Professional
+C0442,Manufacturing,Essential
+C0443,Retail,Professional
+C0444,Healthcare,Essential
+C0445,Retail,Essential
+C0446,Technology,Professional
+C0447,Manufacturing,Essential
+C0448,Technology,Essential
+C0449,Healthcare,Essential
+C0450,Financial services,Professional
+C0451,Manufacturing,Professional
+C0452,Manufacturing,Essential
+C0453,Financial services,Essential
+C0454,Manufacturing,Essential
+C0455,Retail,Essential
+C0456,Financial services,Professional
+C0457,Healthcare,Essential
+C0458,Financial services,Professional
+C0459,Retail,Professional
+C0460,Healthcare,Professional
+C0461,Manufacturing,Professional
+C0462,Technology,Enterprise
+C0463,Technology,Essential
+C0464,Healthcare,Essential
+C0465,Financial services,Enterprise
+C0466,Manufacturing,Professional
+C0467,Technology,Essential
+C0468,Technology,Essential
+C0469,Retail,Professional
+C0470,Healthcare,Enterprise
+C0471,Healthcare,Essential
+C0472,Healthcare,Enterprise
+C0473,Healthcare,Essential
+C0474,Retail,Essential
+C0475,Technology,Professional
+C0476,Technology,Professional
+C0477,Financial services,Essential
+C0478,Retail,Essential
+C0479,Technology,Professional
+C0480,Financial services,Essential
+C0481,Healthcare,Essential
+C0482,Technology,Essential
+C0483,Manufacturing,Essential
+C0484,Manufacturing,Professional
+C0485,Technology,Professional
+C0486,Healthcare,Professional
+C0487,Manufacturing,Essential
+C0488,Technology,Professional
+C0489,Retail,Essential
+C0490,Healthcare,Professional
+C0491,Healthcare,Professional
+C0492,Technology,Essential
+C0493,Manufacturing,Professional
+C0494,Technology,Essential
+C0495,Healthcare,Essential
+C0496,Healthcare,Professional
+C0497,Financial services,Essential
+C0498,Technology,Professional
+C0499,Financial services,Enterprise
+C0500,Financial services,Enterprise
+C0501,Technology,Essential
+C0502,Retail,Professional
+C0503,Financial services,Essential
+C0504,Technology,Enterprise
+C0505,Retail,Professional
+C0506,Financial services,Professional
+C0507,Manufacturing,Professional
+C0508,Manufacturing,Professional
+C0509,Healthcare,Essential
+C0510,Technology,Professional
+C0511,Healthcare,Essential
+C0512,Healthcare,Essential
+C0513,Manufacturing,Essential
+C0514,Technology,Professional
+C0515,Healthcare,Professional
+C0516,Technology,Professional
+C0517,Financial services,Professional
+C0518,Financial services,Essential
+C0519,Manufacturing,Enterprise
+C0520,Technology,Enterprise
+C0521,Retail,Professional
+C0522,Healthcare,Enterprise
+C0523,Technology,Essential
+C0524,Technology,Essential
+C0525,Healthcare,Essential
+C0526,Manufacturing,Essential
+C0527,Technology,Professional
+C0528,Healthcare,Professional
+C0529,Technology,Essential
+C0530,Retail,Enterprise
+C0531,Manufacturing,Essential
+C0532,Retail,Essential
+C0533,Financial services,Professional
+C0534,Manufacturing,Professional
+C0535,Technology,Essential
+C0536,Financial services,Professional
+C0537,Manufacturing,Essential
+C0538,Financial services,Professional
+C0539,Retail,Professional
+C0540,Manufacturing,Professional
+C0541,Technology,Enterprise
+C0542,Financial services,Essential
+C0543,Technology,Enterprise
+C0544,Technology,Essential
+C0545,Financial services,Professional
+C0546,Healthcare,Essential
+C0547,Manufacturing,Professional
+C0548,Technology,Essential
+C0549,Manufacturing,Essential
+C0550,Retail,Enterprise
+C0551,Retail,Professional
+C0552,Healthcare,Enterprise
+C0553,Healthcare,Professional
+C0554,Healthcare,Professional
+C0555,Manufacturing,Professional
+C0556,Healthcare,Essential
+C0557,Technology,Essential
+C0558,Technology,Essential
+C0559,Manufacturing,Enterprise
+C0560,Retail,Essential
+C0561,Retail,Essential
+C0562,Manufacturing,Essential
+C0563,Financial services,Professional
+C0564,Retail,Professional
+C0565,Financial services,Enterprise
+C0566,Healthcare,Essential
+C0567,Manufacturing,Essential
+C0568,Manufacturing,Essential
+C0569,Manufacturing,Enterprise
+C0570,Financial services,Enterprise
+C0571,Manufacturing,Essential
+C0572,Manufacturing,Essential
+C0573,Technology,Essential
+C0574,Manufacturing,Essential
+C0575,Retail,Professional
+C0576,Manufacturing,Professional
+C0577,Healthcare,Enterprise
+C0578,Retail,Essential
+C0579,Technology,Professional
+C0580,Manufacturing,Essential
+C0581,Financial services,Essential
+C0582,Financial services,Essential
+C0583,Manufacturing,Professional
+C0584,Manufacturing,Essential
+C0585,Financial services,Essential
+C0586,Manufacturing,Professional
+C0587,Financial services,Enterprise
+C0588,Financial services,Essential
+C0589,Healthcare,Professional
+C0590,Manufacturing,Professional
+C0591,Financial services,Essential
+C0592,Financial services,Essential
+C0593,Manufacturing,Essential
+C0594,Healthcare,Professional
+C0595,Manufacturing,Essential
+C0596,Healthcare,Enterprise
+C0597,Manufacturing,Essential
+C0598,Financial services,Essential
+C0599,Retail,Professional
+C0600,Financial services,Enterprise
+C0601,Healthcare,Enterprise
+C0602,Retail,Professional
+C0603,Healthcare,Enterprise
+C0604,Retail,Professional
+C0605,Retail,Professional
+C0606,Manufacturing,Professional
+C0607,Healthcare,Professional
+C0608,Healthcare,Professional
+C0609,Retail,Professional
+C0610,Manufacturing,Enterprise
+C0611,Healthcare,Professional
+C0612,Healthcare,Enterprise
+C0613,Financial services,Enterprise
+C0614,Retail,Essential
+C0615,Financial services,Professional
+C0616,Manufacturing,Enterprise
+C0617,Retail,Professional
+C0618,Financial services,Essential
+C0619,Technology,Professional
+C0620,Financial services,Essential
+C0621,Healthcare,Professional
+C0622,Technology,Professional
+C0623,Technology,Professional
+C0624,Healthcare,Professional
+C0625,Healthcare,Essential
+C0626,Manufacturing,Professional
+C0627,Financial services,Essential
+C0628,Financial services,Essential
+C0629,Manufacturing,Professional
+C0630,Financial services,Essential
+C0631,Technology,Professional
+C0632,Retail,Professional
+C0633,Technology,Professional
+C0634,Financial services,Professional
+C0635,Technology,Essential
+C0636,Retail,Enterprise
+C0637,Manufacturing,Essential
+C0638,Technology,Essential
+C0639,Healthcare,Enterprise
+C0640,Retail,Professional
+C0641,Financial services,Professional
+C0642,Healthcare,Essential
+C0643,Technology,Professional
+C0644,Technology,Professional
+C0645,Retail,Essential
+C0646,Retail,Essential
+C0647,Manufacturing,Professional
+C0648,Technology,Essential
+C0649,Healthcare,Enterprise
+C0650,Financial services,Essential
+C0651,Financial services,Professional
+C0652,Retail,Essential
+C0653,Retail,Essential
+C0654,Retail,Professional
+C0655,Technology,Essential
+C0656,Financial services,Essential
+C0657,Financial services,Professional
+C0658,Financial services,Professional
+C0659,Financial services,Professional
+C0660,Manufacturing,Essential
+C0661,Financial services,Professional
+C0662,Retail,Professional
+C0663,Financial services,Professional
+C0664,Manufacturing,Essential
+C0665,Technology,Essential
+C0666,Healthcare,Essential
+C0667,Retail,Essential
+C0668,Manufacturing,Essential
+C0669,Manufacturing,Essential
+C0670,Financial services,Professional
+C0671,Financial services,Essential
+C0672,Financial services,Essential
+C0673,Retail,Essential
+C0674,Manufacturing,Enterprise
+C0675,Retail,Professional
+C0676,Financial services,Essential
+C0677,Healthcare,Enterprise
+C0678,Financial services,Enterprise
+C0679,Healthcare,Professional
+C0680,Financial services,Professional
+C0681,Healthcare,Essential
+C0682,Financial services,Essential
+C0683,Retail,Enterprise
+C0684,Manufacturing,Enterprise
+C0685,Manufacturing,Enterprise
+C0686,Healthcare,Essential
+C0687,Retail,Professional
+C0688,Retail,Essential
+C0689,Manufacturing,Enterprise
+C0690,Manufacturing,Essential
+C0691,Manufacturing,Professional
+C0692,Retail,Enterprise
+C0693,Manufacturing,Essential
+C0694,Retail,Professional
+C0695,Technology,Essential
+C0696,Retail,Essential
+C0697,Manufacturing,Enterprise
+C0698,Manufacturing,Professional
+C0699,Manufacturing,Essential
+C0700,Technology,Essential
+C0701,Technology,Professional
+C0702,Retail,Professional
+C0703,Financial services,Enterprise
+C0704,Financial services,Professional
+C0705,Retail,Enterprise
+C0706,Manufacturing,Essential
+C0707,Manufacturing,Essential
+C0708,Technology,Professional
+C0709,Manufacturing,Enterprise
+C0710,Manufacturing,Essential
+C0711,Manufacturing,Professional
+C0712,Technology,Essential
+C0713,Healthcare,Professional
+C0714,Retail,Essential
+C0715,Technology,Enterprise
+C0716,Financial services,Professional
+C0717,Retail,Professional
+C0718,Healthcare,Essential
+C0719,Financial services,Enterprise
+C0720,Technology,Professional
+C0721,Technology,Essential
+C0722,Financial services,Professional
+C0723,Manufacturing,Enterprise
+C0724,Manufacturing,Professional
+C0725,Financial services,Enterprise
+C0726,Retail,Essential
+C0727,Technology,Professional
+C0728,Healthcare,Essential
+C0729,Financial services,Essential
+C0730,Manufacturing,Essential
+C0731,Technology,Essential
+C0732,Technology,Essential
+C0733,Financial services,Essential
+C0734,Financial services,Essential
+C0735,Manufacturing,Enterprise
+C0736,Retail,Professional
+C0737,Healthcare,Enterprise
+C0738,Financial services,Essential
+C0739,Financial services,Professional
+C0740,Retail,Enterprise
+C0741,Retail,Essential
+C0742,Technology,Professional
+C0743,Manufacturing,Essential
+C0744,Technology,Enterprise
+C0745,Technology,Essential
+C0746,Retail,Essential
+C0747,Manufacturing,Essential
+C0748,Retail,Essential
+C0749,Technology,Essential
+C0750,Financial services,Essential
+C0751,Financial services,Essential
+C0752,Healthcare,Professional
+C0753,Manufacturing,Professional
+C0754,Technology,Professional
+C0755,Healthcare,Enterprise
+C0756,Financial services,Essential
+C0757,Healthcare,Essential
+C0758,Manufacturing,Professional
+C0759,Retail,Essential
+C0760,Manufacturing,Professional
+C0761,Manufacturing,Professional
+C0762,Financial services,Essential
+C0763,Financial services,Essential
+C0764,Financial services,Professional
+C0765,Manufacturing,Professional
+C0766,Healthcare,Professional
+C0767,Retail,Enterprise
+C0768,Healthcare,Essential
+C0769,Technology,Professional
+C0770,Technology,Professional
+C0771,Manufacturing,Professional
+C0772,Healthcare,Professional
+C0773,Technology,Enterprise
+C0774,Financial services,Essential
+C0775,Manufacturing,Professional
+C0776,Manufacturing,Professional
+C0777,Financial services,Essential
+C0778,Financial services,Professional
+C0779,Retail,Essential
+C0780,Healthcare,Essential
+C0781,Technology,Enterprise
+C0782,Technology,Enterprise
+C0783,Financial services,Essential
+C0784,Manufacturing,Essential
+C0785,Retail,Professional
+C0786,Financial services,Essential
+C0787,Healthcare,Essential
+C0788,Retail,Professional
+C0789,Retail,Enterprise
+C0790,Healthcare,Essential
+C0791,Healthcare,Professional
+C0792,Retail,Enterprise
+C0793,Healthcare,Essential
+C0794,Technology,Professional
+C0795,Retail,Essential
+C0796,Financial services,Essential
+C0797,Healthcare,Essential
+C0798,Retail,Professional
+C0799,Retail,Enterprise
+C0800,Financial services,Essential
+C0801,Technology,Professional
+C0802,Manufacturing,Professional
+C0803,Technology,Essential
+C0804,Manufacturing,Essential
+C0805,Retail,Enterprise
+C0806,Retail,Essential
+C0807,Healthcare,Essential
+C0808,Manufacturing,Professional
+C0809,Technology,Essential
+C0810,Technology,Professional
+C0811,Manufacturing,Professional
+C0812,Financial services,Professional
+C0813,Manufacturing,Professional
+C0814,Technology,Enterprise
+C0815,Manufacturing,Essential
+C0816,Manufacturing,Professional
+C0817,Retail,Essential
+C0818,Financial services,Essential
+C0819,Manufacturing,Enterprise
+C0820,Technology,Essential
+C0821,Technology,Enterprise
+C0822,Manufacturing,Professional
+C0823,Healthcare,Essential
+C0824,Financial services,Essential
+C0825,Retail,Essential
+C0826,Manufacturing,Professional
+C0827,Manufacturing,Professional
+C0828,Retail,Professional
+C0829,Financial services,Professional
+C0830,Financial services,Professional
+C0831,Healthcare,Enterprise
+C0832,Healthcare,Essential
+C0833,Manufacturing,Professional
+C0834,Retail,Professional
+C0835,Retail,Professional
+C0836,Technology,Enterprise
+C0837,Financial services,Essential
+C0838,Financial services,Essential
+C0839,Financial services,Professional
+C0840,Manufacturing,Essential
+C0841,Financial services,Essential
+C0842,Financial services,Professional
+C0843,Technology,Professional
+C0844,Financial services,Professional
+C0845,Technology,Enterprise
+C0846,Technology,Professional
+C0847,Healthcare,Essential
+C0848,Healthcare,Professional
+C0849,Technology,Essential
+C0850,Manufacturing,Essential
+C0851,Manufacturing,Enterprise
+C0852,Healthcare,Professional
+C0853,Manufacturing,Essential
+C0854,Retail,Professional
+C0855,Technology,Enterprise
+C0856,Manufacturing,Enterprise
+C0857,Financial services,Professional
+C0858,Retail,Professional
+C0859,Financial services,Essential
+C0860,Retail,Professional
+C0861,Technology,Essential
+C0862,Healthcare,Professional
+C0863,Manufacturing,Essential
+C0864,Technology,Professional
+C0865,Manufacturing,Professional
+C0866,Financial services,Essential
+C0867,Financial services,Enterprise
+C0868,Technology,Professional
+C0869,Technology,Professional
+C0870,Financial services,Professional
+C0871,Healthcare,Essential
+C0872,Manufacturing,Essential
+C0873,Manufacturing,Professional
+C0874,Manufacturing,Essential
+C0875,Retail,Professional
+C0876,Manufacturing,Essential
+C0877,Financial services,Professional
+C0878,Financial services,Enterprise
+C0879,Retail,Essential
+C0880,Manufacturing,Essential
+C0881,Financial services,Enterprise
+C0882,Technology,Essential
+C0883,Financial services,Professional
+C0884,Manufacturing,Essential
+C0885,Technology,Professional
+C0886,Healthcare,Essential
+C0887,Financial services,Professional
+C0888,Healthcare,Professional
+C0889,Technology,Professional
+C0890,Technology,Essential
+C0891,Healthcare,Professional
+C0892,Retail,Essential
+C0893,Financial services,Essential
+C0894,Healthcare,Essential
+C0895,Financial services,Essential
+C0896,Healthcare,Essential
+C0897,Manufacturing,Essential
+C0898,Healthcare,Essential
+C0899,Manufacturing,Essential
+C0900,Healthcare,Professional
+C0901,Financial services,Enterprise
+C0902,Retail,Essential
+C0903,Technology,Essential
+C0904,Manufacturing,Essential
+C0905,Retail,Enterprise
+C0906,Manufacturing,Essential
+C0907,Financial services,Professional
+C0908,Technology,Enterprise
+C0909,Manufacturing,Professional
+C0910,Technology,Essential
+C0911,Financial services,Essential
+C0912,Healthcare,Professional
+C0913,Healthcare,Essential
+C0914,Technology,Professional
+C0915,Financial services,Essential
+C0916,Technology,Essential
+C0917,Healthcare,Essential
+C0918,Healthcare,Enterprise
+C0919,Retail,Professional
+C0920,Technology,Essential
+C0921,Manufacturing,Essential
+C0922,Retail,Essential
+C0923,Financial services,Professional
+C0924,Technology,Professional
+C0925,Retail,Essential
+C0926,Manufacturing,Enterprise
+C0927,Manufacturing,Essential
+C0928,Retail,Professional
+C0929,Technology,Professional
+C0930,Financial services,Professional
+C0931,Financial services,Essential
+C0932,Retail,Essential
+C0933,Technology,Essential
+C0934,Healthcare,Essential
+C0935,Healthcare,Essential
+C0936,Retail,Essential
+C0937,Manufacturing,Professional
+C0938,Healthcare,Essential
+C0939,Financial services,Essential
+C0940,Retail,Essential
+C0941,Financial services,Professional
+C0942,Retail,Enterprise
+C0943,Financial services,Essential
+C0944,Financial services,Essential
+C0945,Technology,Essential
+C0946,Manufacturing,Professional
+C0947,Financial services,Essential
+C0948,Technology,Essential
+C0949,Manufacturing,Essential
+C0950,Financial services,Essential
+C0951,Healthcare,Professional
+C0952,Retail,Professional
+C0953,Retail,Professional
+C0954,Retail,Essential
+C0955,Healthcare,Essential
+C0956,Manufacturing,Professional
+C0957,Financial services,Professional
+C0958,Financial services,Professional
+C0959,Technology,Essential
+C0960,Financial services,Essential
+C0961,Healthcare,Professional
+C0962,Financial services,Essential
+C0963,Retail,Essential
+C0964,Retail,Enterprise
+C0965,Financial services,Professional
+C0966,Healthcare,Essential
+C0967,Technology,Essential
+C0968,Retail,Professional
+C0969,Retail,Professional
+C0970,Healthcare,Essential
+C0971,Technology,Enterprise
+C0972,Financial services,Professional
+C0973,Manufacturing,Essential
+C0974,Retail,Essential
+C0975,Retail,Professional
+C0976,Financial services,Enterprise
+C0977,Retail,Professional
+C0978,Manufacturing,Professional
+C0979,Financial services,Essential
+C0980,Manufacturing,Professional
+C0981,Financial services,Professional
+C0982,Retail,Professional
+C0983,Technology,Essential
+C0984,Retail,Enterprise
+C0985,Technology,Professional
+C0986,Technology,Essential
+C0987,Healthcare,Professional
+C0988,Healthcare,Essential
+C0989,Technology,Professional
+C0990,Healthcare,Essential
+C0991,Technology,Professional
+C0992,Manufacturing,Essential
+C0993,Healthcare,Essential
+C0994,Retail,Essential
+C0995,Technology,Enterprise
+C0996,Financial services,Essential
+C0997,Financial services,Enterprise
+C0998,Retail,Professional
+C0999,Retail,Essential
+C1000,Healthcare,Professional
+C1001,Healthcare,Essential
+C1002,Retail,Professional
+C1003,Manufacturing,Essential
+C1004,Financial services,Essential
+C1005,Manufacturing,Professional
+C1006,Financial services,Professional
+C1007,Healthcare,Professional
+C1008,Healthcare,Essential
+C1009,Technology,Essential
+C1010,Retail,Essential
+C1011,Technology,Essential
+C1012,Financial services,Enterprise
+C1013,Financial services,Essential
+C1014,Financial services,Professional
+C1015,Manufacturing,Essential
+C1016,Retail,Essential
+C1017,Financial services,Essential
+C1018,Manufacturing,Enterprise
+C1019,Technology,Essential
+C1020,Retail,Professional
+C1021,Retail,Essential
+C1022,Manufacturing,Professional
+C1023,Technology,Essential
+C1024,Healthcare,Professional
+C1025,Manufacturing,Essential
+C1026,Technology,Essential
+C1027,Retail,Professional
+C1028,Manufacturing,Essential
+C1029,Manufacturing,Essential
+C1030,Manufacturing,Professional
+C1031,Manufacturing,Essential
+C1032,Financial services,Essential
+C1033,Financial services,Professional
+C1034,Financial services,Essential
+C1035,Technology,Essential
+C1036,Technology,Essential
+C1037,Technology,Professional
+C1038,Financial services,Professional
+C1039,Manufacturing,Essential
+C1040,Technology,Professional
+C1041,Retail,Professional
+C1042,Manufacturing,Professional
+C1043,Financial services,Essential
+C1044,Financial services,Professional
+C1045,Financial services,Essential
+C1046,Financial services,Professional
+C1047,Healthcare,Essential
+C1048,Manufacturing,Essential
+C1049,Financial services,Enterprise
+C1050,Retail,Enterprise
+C1051,Manufacturing,Essential
+C1052,Manufacturing,Essential
+C1053,Retail,Professional
+C1054,Financial services,Professional
+C1055,Retail,Professional
+C1056,Healthcare,Essential
+C1057,Manufacturing,Professional
+C1058,Healthcare,Essential
+C1059,Financial services,Essential
+C1060,Financial services,Essential
+C1061,Manufacturing,Professional
+C1062,Manufacturing,Professional
+C1063,Technology,Professional
+C1064,Healthcare,Essential
+C1065,Healthcare,Essential
+C1066,Healthcare,Essential
+C1067,Manufacturing,Essential
+C1068,Technology,Enterprise
+C1069,Healthcare,Essential
+C1070,Retail,Professional
+C1071,Technology,Professional
+C1072,Financial services,Essential
+C1073,Retail,Professional
+C1074,Financial services,Enterprise
+C1075,Manufacturing,Professional
+C1076,Retail,Professional
+C1077,Manufacturing,Essential
+C1078,Financial services,Enterprise
+C1079,Manufacturing,Essential
+C1080,Technology,Essential
+C1081,Technology,Professional
+C1082,Technology,Essential
+C1083,Healthcare,Essential
+C1084,Retail,Essential
+C1085,Healthcare,Essential
+C1086,Technology,Professional
+C1087,Manufacturing,Professional
+C1088,Manufacturing,Essential
+C1089,Healthcare,Essential
+C1090,Retail,Professional
+C1091,Financial services,Professional
+C1092,Financial services,Enterprise
+C1093,Healthcare,Professional
+C1094,Manufacturing,Enterprise
+C1095,Healthcare,Essential
+C1096,Technology,Professional
+C1097,Manufacturing,Essential
+C1098,Healthcare,Essential
+C1099,Healthcare,Professional
+C1100,Retail,Professional
+C1101,Retail,Essential
+C1102,Technology,Essential
+C1103,Healthcare,Essential
+C1104,Technology,Professional
+C1105,Manufacturing,Enterprise
+C1106,Retail,Essential
+C1107,Financial services,Essential
+C1108,Retail,Essential
+C1109,Healthcare,Essential
+C1110,Healthcare,Professional
+C1111,Technology,Professional
+C1112,Manufacturing,Professional
+C1113,Retail,Essential
+C1114,Healthcare,Professional
+C1115,Healthcare,Professional
+C1116,Manufacturing,Professional
+C1117,Retail,Essential
+C1118,Healthcare,Enterprise
+C1119,Financial services,Professional
+C1120,Retail,Professional
+C1121,Manufacturing,Essential
+C1122,Manufacturing,Professional
+C1123,Financial services,Essential
+C1124,Manufacturing,Enterprise
+C1125,Financial services,Essential
+C1126,Retail,Enterprise
+C1127,Technology,Essential
+C1128,Healthcare,Essential
+C1129,Manufacturing,Essential
+C1130,Retail,Professional
+C1131,Financial services,Essential
+C1132,Technology,Enterprise
+C1133,Manufacturing,Essential
+C1134,Manufacturing,Essential
+C1135,Technology,Professional
+C1136,Healthcare,Essential
+C1137,Retail,Essential
+C1138,Retail,Enterprise
+C1139,Manufacturing,Essential
+C1140,Financial services,Essential
+C1141,Technology,Enterprise
+C1142,Healthcare,Essential
+C1143,Technology,Professional
+C1144,Technology,Professional
+C1145,Financial services,Enterprise
+C1146,Manufacturing,Essential
+C1147,Retail,Enterprise
+C1148,Retail,Essential
+C1149,Healthcare,Essential
+C1150,Manufacturing,Essential
+C1151,Technology,Essential
+C1152,Financial services,Essential
+C1153,Technology,Essential
+C1154,Financial services,Enterprise
+C1155,Technology,Professional
+C1156,Technology,Professional
+C1157,Retail,Professional
+C1158,Retail,Essential
+C1159,Retail,Professional
+C1160,Technology,Essential
+C1161,Retail,Essential
+C1162,Healthcare,Essential
+C1163,Retail,Essential
+C1164,Healthcare,Enterprise
+C1165,Technology,Essential
+C1166,Healthcare,Essential
+C1167,Healthcare,Professional
+C1168,Retail,Essential
+C1169,Manufacturing,Professional
+C1170,Healthcare,Professional
+C1171,Manufacturing,Essential
+C1172,Retail,Professional
+C1173,Retail,Essential
+C1174,Manufacturing,Essential
+C1175,Healthcare,Essential
+C1176,Manufacturing,Essential
+C1177,Manufacturing,Professional
+C1178,Technology,Professional
+C1179,Retail,Enterprise
+C1180,Financial services,Enterprise
+C1181,Manufacturing,Essential
+C1182,Technology,Essential
+C1183,Manufacturing,Essential
+C1184,Retail,Essential
+C1185,Manufacturing,Enterprise
+C1186,Financial services,Professional
+C1187,Healthcare,Professional
+C1188,Manufacturing,Enterprise
+C1189,Manufacturing,Enterprise
+C1190,Technology,Professional
+C1191,Financial services,Professional
+C1192,Healthcare,Essential
+C1193,Retail,Essential
+C1194,Technology,Essential
+C1195,Manufacturing,Professional
+C1196,Manufacturing,Professional
+C1197,Retail,Essential
+C1198,Financial services,Enterprise
+C1199,Financial services,Essential
+C1200,Technology,Essential
+C1201,Technology,Professional
+C1202,Manufacturing,Enterprise
+C1203,Manufacturing,Professional
+C1204,Manufacturing,Professional
+C1205,Technology,Essential
+C1206,Financial services,Enterprise
+C1207,Technology,Professional
+C1208,Technology,Enterprise
+C1209,Manufacturing,Professional
+C1210,Retail,Essential
+C1211,Retail,Essential
+C1212,Healthcare,Essential
+C1213,Financial services,Enterprise
+C1214,Manufacturing,Essential
+C1215,Technology,Essential
+C1216,Financial services,Enterprise
+C1217,Healthcare,Professional
+C1218,Retail,Essential
+C1219,Retail,Essential
+C1220,Financial services,Professional
+C1221,Technology,Professional
+C1222,Retail,Essential
+C1223,Manufacturing,Professional
+C1224,Technology,Essential
+C1225,Retail,Essential
+C1226,Healthcare,Professional
+C1227,Financial services,Essential
+C1228,Retail,Professional
+C1229,Manufacturing,Essential
+C1230,Financial services,Professional
+C1231,Technology,Enterprise
+C1232,Technology,Professional
+C1233,Retail,Professional
+C1234,Technology,Professional
+C1235,Healthcare,Professional
+C1236,Manufacturing,Enterprise
+C1237,Healthcare,Essential
+C1238,Financial services,Essential
+C1239,Healthcare,Essential
+C1240,Healthcare,Essential
+C1241,Technology,Professional
+C1242,Healthcare,Essential
+C1243,Retail,Professional
+C1244,Healthcare,Professional
+C1245,Technology,Professional
+C1246,Technology,Essential
+C1247,Healthcare,Essential
+C1248,Healthcare,Professional
+C1249,Financial services,Enterprise
+C1250,Technology,Essential
+C1251,Manufacturing,Essential
+C1252,Financial services,Essential
+C1253,Technology,Essential
+C1254,Manufacturing,Professional
+C1255,Healthcare,Enterprise
+C1256,Financial services,Professional
+C1257,Manufacturing,Professional
+C1258,Technology,Essential
+C1259,Technology,Enterprise
+C1260,Technology,Professional
+C1261,Technology,Enterprise
+C1262,Retail,Essential
+C1263,Financial services,Essential
+C1264,Financial services,Professional
+C1265,Healthcare,Essential
+C1266,Retail,Enterprise
+C1267,Financial services,Essential
+C1268,Technology,Essential
+C1269,Financial services,Professional
+C1270,Retail,Professional
+C1271,Technology,Professional
+C1272,Manufacturing,Professional
+C1273,Financial services,Professional
+C1274,Financial services,Essential
+C1275,Technology,Professional
+C1276,Healthcare,Essential
+C1277,Technology,Essential
+C1278,Manufacturing,Enterprise
+C1279,Financial services,Professional
+C1280,Retail,Professional
+C1281,Manufacturing,Professional
+C1282,Retail,Professional
+C1283,Manufacturing,Enterprise
+C1284,Financial services,Essential
+C1285,Retail,Enterprise
+C1286,Retail,Professional
+C1287,Technology,Enterprise
+C1288,Manufacturing,Essential
+C1289,Technology,Essential
+C1290,Healthcare,Essential
+C1291,Technology,Essential
+C1292,Manufacturing,Professional
+C1293,Manufacturing,Professional
+C1294,Financial services,Essential
+C1295,Technology,Essential
+C1296,Technology,Professional
+C1297,Financial services,Professional
+C1298,Financial services,Essential
+C1299,Manufacturing,Professional
+C1300,Technology,Essential
+C1301,Retail,Essential
+C1302,Retail,Essential
+C1303,Healthcare,Professional
+C1304,Financial services,Essential
+C1305,Manufacturing,Essential
+C1306,Manufacturing,Professional
+C1307,Retail,Professional
+C1308,Retail,Professional
+C1309,Technology,Essential
+C1310,Technology,Essential
+C1311,Financial services,Essential
+C1312,Financial services,Essential
+C1313,Healthcare,Essential
+C1314,Manufacturing,Essential
+C1315,Financial services,Enterprise
+C1316,Manufacturing,Essential
+C1317,Retail,Essential
+C1318,Financial services,Professional
+C1319,Manufacturing,Essential
+C1320,Financial services,Essential
+C1321,Technology,Enterprise
+C1322,Manufacturing,Professional
+C1323,Retail,Enterprise
+C1324,Financial services,Enterprise
+C1325,Retail,Essential
+C1326,Technology,Professional
+C1327,Retail,Essential
+C1328,Healthcare,Essential
+C1329,Healthcare,Professional
+C1330,Healthcare,Enterprise
+C1331,Technology,Essential
+C1332,Technology,Essential
+C1333,Retail,Enterprise
+C1334,Retail,Essential
+C1335,Manufacturing,Essential
+C1336,Financial services,Essential
+C1337,Retail,Professional
+C1338,Retail,Professional
+C1339,Financial services,Professional
+C1340,Financial services,Essential
+C1341,Financial services,Essential
+C1342,Financial services,Professional
+C1343,Manufacturing,Professional
+C1344,Technology,Essential
+C1345,Technology,Essential
+C1346,Manufacturing,Essential
+C1347,Financial services,Professional
+C1348,Financial services,Enterprise
+C1349,Retail,Essential
+C1350,Healthcare,Enterprise
+C1351,Financial services,Enterprise
+C1352,Healthcare,Essential
+C1353,Healthcare,Professional
+C1354,Retail,Professional
+C1355,Retail,Enterprise
+C1356,Manufacturing,Professional
+C1357,Healthcare,Professional
+C1358,Retail,Professional
+C1359,Retail,Professional
+C1360,Manufacturing,Essential
+C1361,Retail,Professional
+C1362,Technology,Professional
+C1363,Healthcare,Professional
+C1364,Manufacturing,Professional
+C1365,Technology,Essential
+C1366,Healthcare,Essential
+C1367,Financial services,Professional
+C1368,Technology,Essential
+C1369,Healthcare,Essential
+C1370,Retail,Essential
+C1371,Financial services,Professional
+C1372,Financial services,Essential
+C1373,Financial services,Essential
+C1374,Retail,Essential
+C1375,Healthcare,Essential
+C1376,Healthcare,Essential
+C1377,Financial services,Professional
+C1378,Healthcare,Professional
+C1379,Healthcare,Essential
+C1380,Retail,Essential
+C1381,Technology,Professional
+C1382,Manufacturing,Essential
+C1383,Financial services,Professional
+C1384,Financial services,Essential
+C1385,Financial services,Professional
+C1386,Manufacturing,Professional
+C1387,Retail,Professional
+C1388,Retail,Essential
+C1389,Retail,Essential
+C1390,Financial services,Enterprise
+C1391,Technology,Essential
+C1392,Financial services,Essential
+C1393,Financial services,Essential
+C1394,Healthcare,Essential
+C1395,Technology,Enterprise
+C1396,Healthcare,Enterprise
+C1397,Healthcare,Professional
+C1398,Financial services,Professional
+C1399,Retail,Professional
+C1400,Financial services,Essential

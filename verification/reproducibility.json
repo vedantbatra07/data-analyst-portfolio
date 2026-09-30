@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "clean_directory": true,
+  "pipeline_and_dashboard_reproduced": true,
+  "analysis_tests": 15,
+  "byte_identical_outputs": {
+    "portfolio_summary.json": true,
+    "01-retention/analysis.json": true,
+    "01-retention/model.json": true,
+    "02-ai-adoption/analysis.json": true,
+    "01-retention/data/features.csv": true,
+    "02-ai-adoption/data/respondents.csv": true,
+    "01-retention/dashboard.html": true,
+    "02-ai-adoption/dashboard.html": true,
+    "index.html": true
+  },
+  "deck_receipts_match_delivered_files": {
+    "01-retention": true,
+    "02-ai-adoption": true
+  },
+  "office_archive_integrity": "pass",
+  "limits": "Office authoring not rerun in clean Python environment; requires bundled artifact-tool and reference."
+}

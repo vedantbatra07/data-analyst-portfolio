@@ -1,0 +1,20 @@
+test_ai_sql_denominators_independent (test_portfolio.PortfolioTests.test_ai_sql_denominators_independent) ... ok
+test_contract_value_reconciles (test_portfolio.PortfolioTests.test_contract_value_reconciles) ... ok
+test_cube_reconciles_and_no_average_of_percentages (test_portfolio.PortfolioTests.test_cube_reconciles_and_no_average_of_percentages) ... ok
+test_date_window_boundaries_and_future_leakage (test_portfolio.PortfolioTests.test_date_window_boundaries_and_future_leakage) ... ok
+test_evaluation_independently (test_portfolio.PortfolioTests.test_evaluation_independently) ... ok
+test_missingness_and_invalid_categories (test_portfolio.PortfolioTests.test_missingness_and_invalid_categories) ... ok
+test_model_uses_training_only_and_no_outcome_feature (test_portfolio.PortfolioTests.test_model_uses_training_only_and_no_outcome_feature) ... ok
+test_multiple_choice_deduplication (test_portfolio.PortfolioTests.test_multiple_choice_deduplication) ... ok
+test_no_future_observations_for_upcoming (test_portfolio.PortfolioTests.test_no_future_observations_for_upcoming) ... ok
+test_raw_keys_and_foreign_keys (test_portfolio.PortfolioTests.test_raw_keys_and_foreign_keys) ... ok
+test_sql_recent_activity_independent (test_portfolio.PortfolioTests.test_sql_recent_activity_independent) ... ok
+test_sql_support_asof_independent (test_portfolio.PortfolioTests.test_sql_support_asof_independent) ... ok
+test_temporal_split_and_unknown_outcomes (test_portfolio.PortfolioTests.test_temporal_split_and_unknown_outcomes) ... ok
+test_wilson_limits (test_portfolio.PortfolioTests.test_wilson_limits) ... ok
+test_zero_denominators (test_portfolio.PortfolioTests.test_zero_denominators) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.305s
+
+OK

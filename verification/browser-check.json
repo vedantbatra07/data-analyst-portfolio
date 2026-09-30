@@ -1,0 +1,10 @@
+{
+  "checks": 20,
+  "errors": [],
+  "browser": "Headless Brave (Chromium)",
+  "viewports": [
+    1440,
+    390
+  ],
+  "offline_file_urls": true
+}
